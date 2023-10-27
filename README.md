@@ -1,6 +1,9 @@
 # EQiPad
 Stream Everquest to an iPad or  mobile device to play with a controller
 
+![screenshot](https://i.imgur.com/OnaUib7.png)
+![inuse](https://i.imgur.com/EXuVnNU.jpg)
+
 ## Requirements
 ### Hardware Requirements:
 - PC or Laptop to stream from
