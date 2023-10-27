@@ -23,7 +23,7 @@ Stream Everquest to an iPad or  mobile device to play with a controller
 ## Setup:
 ### Step 1: Configure OS Resolution
 - Identify native tablet/phone resolution (look it up on Google)
-- Ex. The iPad Air 5 has a native resolution of 2360x1640
+  - Ex. The iPad Air 5 has a native resolution of 2360x1640
 - Halve the resolution for High DPI screens. Else the UI will be unusable for touch and mouse
   - **1180x820**
 - Download and run Custom Resolution Utility
