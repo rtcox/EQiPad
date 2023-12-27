@@ -67,7 +67,7 @@ RefreshRate=99
 ### Step 4: Configure Tablet
 - Pair game controller and keyboard to tablet/phone
 - Install Moonlight
-- Configure Custom resolution to native device resolution
+- Set resolution to FULL or Configure Custom resolution to native device resolution
   - ex. iPad Air 5: **2360x1640**
 ### Step 5: Test
 - Open Moonlight and connect to host
