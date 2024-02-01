@@ -1,7 +1,7 @@
 # EQiPad
 Stream Everquest to an iPad or  mobile device to play with a controller
 
-![screenshot](https://i.imgur.com/OnaUib7.png)
+![screenshot](https://i.imgur.com/MJbD8Hx.jpg)
 ![inuse](https://i.imgur.com/EXuVnNU.jpg)
 ![handheld](https://i.imgur.com/aulIV6v.jpg)
 
